@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 
 -->
-![ign-0009]([https://www.lonelyplanet.com/articles/fly-from-london-to-sydney-in-four-hours](https://lp-cms-production.imgix.net/image_browser/GettyImages-1030585028.jpg?auto=format&fit=crop&sharp=10&vib=20&ixlib=react-8.6.4&w=850&q=50&dpr=2))
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
